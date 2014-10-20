@@ -72,12 +72,12 @@
     <repository>
         <id>olga-Latitude-E5540</id>
         <name>olga-Latitude-E5540-releases</name>
-        <url>http://localhost:8080/artifactory/libs-release-local</url>
+        <url>http://localhost:8081/artifactory/libs-release-local</url>
     </repository>
     <snapshotRepository>
         <id>olga-Latitude-E5540</id>
         <name>olga-Latitude-E5540-snapshots</name>
-        <url>http://localhost:8080/artifactory/libs-release-local</url>
+        <url>http://localhost:8081/artifactory/libs-release-local</url>
     </snapshotRepository>
 </distributionManagement>
 </project>
